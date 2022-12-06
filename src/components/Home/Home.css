@@ -1,0 +1,13 @@
+.home_image {
+  background: linear-gradient(
+      rgba(255, 179, 0, 0.308),
+      rgba(234, 255, 0, 0.357)
+    ),
+    url("../../image/img.png");
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
